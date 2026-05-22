@@ -8,7 +8,8 @@ A highly responsive, reactive, and edge-case-proof Tip Calculator and Bill Split
 ## How to Run Locally
 
 1. **Clone the repository** (if you haven't already):
-   \`\`\`bash 
+   \`\`\`bash
+   git clone https://github.com/umar-atiq210/devweekend-tip-calculator
    cd tip-calculator
    \`\`\`
 

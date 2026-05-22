@@ -6,7 +6,7 @@ To run this project on a fresh machine:
 2. Run `npm install` to install dependencies.
 3. Run `npm run dev` to start the Vite server.
 4. Open `http://localhost:5173` in your browser.
-*(If deployed, Live URL: [Insert Your Vercel/Netlify URL Here])*
+(https://devweekend-tip-calculator.vercel.app/)
 
 ## 2. Stack & design choices
 **Stack:** I chose React (via Vite) and Tailwind CSS v4. React's `useState` is perfect for the "live reactive updates" requirement without needing a "Calculate" button. Tailwind allowed me to rapidly build a responsive, polished UI without writing custom CSS files.
