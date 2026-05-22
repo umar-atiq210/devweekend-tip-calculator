@@ -8,7 +8,7 @@ A highly responsive, reactive, and edge-case-proof Tip Calculator and Bill Split
 ## How to Run Locally
 
 1. **Clone the repository** (if you haven't already):
-   \`\`\`bash
+   \`\`\`bash 
    cd tip-calculator
    \`\`\`
 
